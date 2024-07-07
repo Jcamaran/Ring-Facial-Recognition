@@ -35,7 +35,7 @@ class FaceRecognition:
         print(self.known_face_names)
 
     def run_recognition(self):
-        door_video_file = "C:\\Users\\camar\\OneDrive\\Documents\\Joa Projects\\facial_recognition\\last_clip\\Front_Door_last_clip.mp4"
+        door_video_file = "video_filepath"
 
         cap = cv2.VideoCapture(door_video_file)
 
