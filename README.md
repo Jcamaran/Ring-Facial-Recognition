@@ -41,12 +41,12 @@ The Ring-Facial Recognition Project originally aimed to enhance home security by
 
 ## Neccecary-Downloads
 ```
-- pip install opencv-python
-- pip install face_recognition
-- pip install requests
-- pip install ring-doorbell
-- pip install seam-api-client
-- pip install numpy
+pip install opencv-python
+pip install face_recognition
+pip install requests
+pip install ring-doorbell
+pip install seam-api-client
+pip install numpy
 ```
 - Make sure to install these packages in your Python environment before running your project scripts. If you encounter any specific issues during installation or usage, referring to each package's documentation or community resources can provide additional guidance.
 
